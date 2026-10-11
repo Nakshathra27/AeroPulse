@@ -1,5 +1,11 @@
 # AeroPulse: Indian Aviation Analytics
 
+   ![Dashboard 1](Screenshot0.png.png)
+   ![Dashboard 2](Screenshot1.png.png)
+   ![Dashboard 3](Screenshot2.png.png)
+   ![Dashboard 4](Screenshot3.png.png)
+   ![Dashboard 5](Screenshot4.png.png)
+
 An interactive dashboard that explores Indian domestic aviation: passenger
 traffic by route, airline market share, and on-time performance.
 
