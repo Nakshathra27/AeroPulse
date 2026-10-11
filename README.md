@@ -75,3 +75,7 @@ All numbers come from `python findings.py` on the included data (2015 to July 20
 - Add airport-level analysis.
 - Add data-quality tests.
 - Deploy publicly on Streamlit Community Cloud.
+
+  **Live demo:** https://aeropulse-indianaviation.streamlit.app/
+
+and run git add ., git commit -m "Add live demo link" and git push
